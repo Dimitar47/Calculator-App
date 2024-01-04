@@ -1,0 +1,1 @@
+This is a generally simple app made by using C# Windows Form Application. It shows the actions and the results. It can multiply, divide, substract, add multiple numbers at the same time. It also works with decimal point numbers. I might improve this calculator in the future by adding more functionalities like finding the square root of a number, etc.
